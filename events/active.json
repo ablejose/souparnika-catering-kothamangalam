@@ -1,0 +1,47 @@
+{
+  "slug": "souparnika-catering-kothamangalam",
+  "name": "Souparnika Catering",
+  "shortName": "Souparnika",
+  "descriptor": "Catering Services",
+  "address": "3J73+W5P, Nangelipady Elambra Road, Keralam 686691",
+  "area": "Nangelipady",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.0648386,
+    "lng": 76.6029654
+  },
+  "mapsLink": "https://maps.google.com/?cid=5137654699662997979",
+  "phone": "+91 96055 54973",
+  "whatsapp": "919605554973",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "name": "Sreejesh Sivaraman",
+      "rating": 5,
+      "quote": "Their food was absolutely delicious! Souparnika Caterers handled the catering for my wedding and several other family events. We got very happy feedback from our guests.😍 We are happy to choose them as they made our events special. Highly, highly recommend them to anyone! 🎉\""
+    },
+    {
+      "name": "Meenakshi Anish",
+      "rating": 5,
+      "quote": "Fabulous event Delicious sadhya especially there paysam was so tasty"
+    },
+    {
+      "name": "Reghunathan Chandran Nair",
+      "rating": 5,
+      "quote": "Excellent sadya, tried several times...!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://souparnika-catering-kothamangalam.vercel.app"
+}
